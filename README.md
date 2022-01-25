@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pedroacarval/pedroacarval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Pedros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroacarval)](https://github.com/pedroacarval/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroacarval&repo=github-readme-stats)](https://github.com/pedroacarval/github-readme-stats)
+<p align='center'>
+<a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+</p>
+![Pedros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroacarval&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacarval&layout=compact&hide_border=true)
