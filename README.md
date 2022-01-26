@@ -17,9 +17,8 @@
 <hr/>
 
 <h3 align="left">Contribute Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact" alt="pedroacarval" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=en" alt="pedroacarval" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact" alt="pedroacarval" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=en" alt="pedroacarval" /></p>
  
 <br/>
 <hr/>
