@@ -23,8 +23,8 @@
 <hr/>
 
 <h4 align="left">Contribute Stats:</h4>
-<p><img style="max-width: 50%;width:48%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact&theme=vue" alt="pedroacarval" />
-  &nbsp;<img style="max-width: 50%;width:48%;" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=pt-br&theme=vue" alt="pedroacarval" /></p>
+<p><img style="max-width: 50%;width:48%;vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact&theme=vue" alt="pedroacarval" />
+  &nbsp;<img style="max-width: 50%;width:48%;vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=pt-br&theme=vue" alt="pedroacarval" /></p>
 
 <hr/>
   
