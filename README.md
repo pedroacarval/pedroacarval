@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Carvalho</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pedroacarval&label=Profile%20views&color=0e75b6&style=flat" alt="pedroacarval" /> 
-  <a href="https://github.com/pedroacarval/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/pedroacarval/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
   <a href="https://codecov.io/gh/pedroacarval/github-readme-stats">
     <img src="https://codecov.io/gh/pedroacarval/github-readme-stats/branch/master/graph/badge.svg" />
   </a>
@@ -27,7 +24,7 @@
 
 <h4 align="left">Contribute Stats:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact" alt="pedroacarval" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=en" alt="pedroacarval" /></p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=pt-br&theme=vue" alt="pedroacarval" /></p>
 
 <hr/>
   
