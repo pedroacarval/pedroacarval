@@ -23,7 +23,7 @@
 <hr/>
 
 <h4 align="left">Contribute Stats:</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact" alt="pedroacarval" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact&theme=vue" alt="pedroacarval" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=pt-br&theme=vue" alt="pedroacarval" /></p>
 
 <hr/>
