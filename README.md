@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pedro Carvalho</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroacarval&label=Profile%20views&color=0e75b6&style=flat" alt="pedroacarval" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=pedroacarval&label=Profile%20views&color=0e75b6&style=flat" alt="pedroacarval" /> 
+  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+</p>
 <p align="left">I have been in the IT area more than 10 years, working with developement, automation, projects implementation, process metodologysts, infra structure & operation system, cloud computing and service desk, with undergraduate degree in Information Tecnology, and teacher of Judô. Currently I work with Projects to Process Automation focused on high disponibility, recovery and troubleshooting.</p>
   <p align="left">I also hold well-known certifications in the market that are focused on several technologies such as Microsoft Sharepoint, and others that are focused in frameworks such as ITIL Foundation.</p>
   <p align="left">I'm wating to target my objectives and get the well-known certifications such as Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud (OCI), Huawei Cloud, Elastic Stack, and contribute more with the tecnology communitys and my professional career.</p>
