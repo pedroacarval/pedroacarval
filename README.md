@@ -12,8 +12,8 @@
 <hr/>
 
 <h4 align="left">Contribute Stats:</h4>
-<p><img width:"50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact" alt="pedroacarval" />
-  &nbsp;<img width:"50%" align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=en" alt="pedroacarval" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroacarval&show_icons=true&locale=en&layout=compact" alt="pedroacarval" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroacarval&show_icons=true&locale=en" alt="pedroacarval" /></p>
 
 <hr/>
   
