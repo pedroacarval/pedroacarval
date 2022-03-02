@@ -8,7 +8,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/pedroacarval/github-readme-stats?color=0088ff" />
   </a>
   <a href="https://github.com/pedroacarval/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pedroacarval/github-readme-stats?color=0088ff" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pedroacarval/github-readme-stats?color=0088f" />
   </a>
 </p>
 <p align="left">I have been in the IT area more than 10 years, working with developement, automation, projects implementation, process metodologysts, infra structure & operation system, cloud computing and service desk, with undergraduate degree in Information Tecnology, and teacher of Judô. Currently I work with Projects to Process Automation focused on high disponibility, recovery and troubleshooting.</p>
