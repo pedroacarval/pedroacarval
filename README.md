@@ -3,11 +3,7 @@
 <p align="left">I have been in the IT area more than 10 years, working with developement, automation, projects implementation, process metodologysts, infra structure & operation system, cloud computing and service desk, with undergraduate degree in Information Tecnology, and teacher of Judô. Currently I work with Projects to Process Automation focused on high disponibility, recovery and troubleshooting.</p>
   <p align="left">I also hold well-known certifications in the market that are focused on several technologies such as Microsoft Sharepoint, and others that are focused in frameworks such as ITIL Foundation.</p>
   <p align="left">I'm wating to target my objectives and get the well-known certifications such as Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud (OCI), Huawei Cloud, Elastic Stack, and contribute more with the tecnology communitys and my professional career.</p><br/>
-  <p align="left">Thank's to view my profile, let's go to up! 🚀🚀🚀</p?
-
-  
-<p align="left"><img src="https://github.com/pedroacarval/pedroacarval/blob/574ae23ee7a8de18a595c69347309cb33987c91d/time-is-money.jpg" alt="" data-canonical-src="https://github.com/pedroacarval/pedroacarval/blob/574ae23ee7a8de18a595c69347309cb33987c91d/time-is-money.jpg" style="max-width: 100%;"></p>
- 
+  <p align="left">Thank's to view my profile, let's go to up! 🚀🚀🚀</p? 
 <hr/>  
 
 <h4 align="left">Languages and Tools:</h4>
