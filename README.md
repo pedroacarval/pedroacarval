@@ -2,13 +2,13 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pedroacarval&label=Profile%20views&color=0e75b6&style=flat" alt="pedroacarval" /> 
   <a href="https://codecov.io/gh/pedroacarval/github-readme-stats">
-    <img src="https://codecov.io/gh/pedroacarval/github-readme-stats/branch/master/graph/badge.svg?color=0088f" />
+    <img src="https://codecov.io/gh/pedroacarval/github-readme-stats/branch/master/graph/badge.svg?label=stats&color=0088f" />
   </a>
   <a href="https://github.com/pedroacarval/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/pedroacarval/github-readme-stats?color=0088ff" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/pedroacarval/github-readme-stats?label=issues&color=0088ff" />
   </a>
   <a href="https://github.com/pedroacarval/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pedroacarval/github-readme-stats?color=0088f" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pedroacarval/github-readme-stats?label=pulls&color=0088f" />
   </a>
   <a href="https://github.com/pedroacarval?tab=followers">
     <img src="https://img.shields.io/github/followers/pedroacarval?label=followers&logo=GitHub&color=0088f" alt="GitHub badge" />
