@@ -10,6 +10,12 @@
   <a href="https://github.com/pedroacarval/github-readme-stats/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pedroacarval/github-readme-stats?color=0088f" />
   </a>
+  <a href="https://github.com/pedroacarval?tab=followers">
+    <img src="https://img.shields.io/github/followers/pedroacarval?label=Followers&logo=GitHub&style=for-the-badge&color=0088f" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/pedroacarval">
+    <img src="https://img.shields.io/twitter/follow/pedroacarval?label=Twitter&logo=twitter&style=for-the-badge&color=0088f" />
+  </a>
 </p>
 <p align="left">I have been in the IT area more than 10 years, working with developement, automation, projects implementation, process metodologysts, infra structure & operation system, cloud computing and service desk, with undergraduate degree in Information Tecnology, and teacher of Judô. Currently I work with Projects to Process Automation focused on high disponibility, recovery and troubleshooting.</p>
   <p align="left">I also hold well-known certifications in the market that are focused on several technologies such as Microsoft Sharepoint, and others that are focused in frameworks such as ITIL Foundation.</p>
