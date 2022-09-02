@@ -85,18 +85,18 @@
   
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="pedroacarval" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pedro-carvalho-a8791a181" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pedro-carvalho-a8791a181" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18037840" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="18037840" height="30" width="40" /></a>
-<a href="https://kaggle.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="pedroacarval" height="30" width="40" /></a>
-<a href="https://fb.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="pedroacarval" height="30" width="40" /></a>
-<a href="https://instagram.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="pedroacarval" height="30" width="40" /></a>
-<a href="https://dribbble.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="pedroacarval" height="30" width="40" /></a>
-<a href="https://hashnode.com/@pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@pedroacarval" height="30" width="40" /></a>
-<a href="https://medium.com/@pedrocarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@pedrocarval" height="30" width="40" /></a>
-<a href="https://discord.gg/Pedro Carvalho#2528" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Pedro Carvalho#2528" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pedrocarval" target="blank"><img align="center" src="" alt="pedrocarval" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pedroacarval" target="blank"><img align="center" src="" alt="pedroacarval" height="30" width="40" /></a>
+<a href="https://twitter.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="pedroacarval" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/pedro-carvalho-a8791a181" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="pedro-carvalho-a8791a181" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/18037840" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="18037840" height="30" width="30" /></a>
+<a href="https://kaggle.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="pedroacarval" height="30" width="30" /></a>
+<a href="https://fb.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="pedroacarval" height="30" width="30" /></a>
+<a href="https://instagram.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="pedroacarval" height="30" width="30" /></a>
+<a href="https://dribbble.com/pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="pedroacarval" height="30" width="30" /></a>
+<a href="https://hashnode.com/@pedroacarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@pedroacarval" height="30" width="30" /></a>
+<a href="https://medium.com/@pedrocarval" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@pedrocarval" height="30" width="30" /></a>
+<a href="https://discord.gg/Pedro Carvalho#2528" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Pedro Carvalho#2528" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pedrocarval" target="blank"><img align="center" src="" alt="pedrocarval" height="30" width="30" /></a>
+<a href="https://codesandbox.com/pedroacarval" target="blank"><img align="center" src="" alt="pedroacarval" height="30" width="30" /></a>
 </p>
 
 
